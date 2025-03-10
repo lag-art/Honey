@@ -19,7 +19,7 @@ const Footer = () => {
         <a href="https://wa.me/254715827859" target="_blank" rel="noopener noreferrer">
           <img src={whatsappIcon} alt="WhatsApp" className="h-8 w-8 hover:scale-110 transition-transform duration-300" />
         </a>
-        <a href="#">
+        <a href="https://www.instagram.com/okla_natural_honey?igsh=cHkxeGhzdzJzMTRz">
           <img src={instagramIcon} alt="Instagram" className="h-8 w-8 hover:scale-110 transition-transform duration-300" />
         </a>
         <a href="#">

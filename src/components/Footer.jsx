@@ -22,7 +22,7 @@ const Footer = () => {
         <a href="https://www.instagram.com/okla_natural_honey?igsh=cHkxeGhzdzJzMTRz">
           <img src={instagramIcon} alt="Instagram" className="h-8 w-8 hover:scale-110 transition-transform duration-300" />
         </a>
-        <a href="#">
+        <a href="https://www.facebook.com/share/16Apvif3vn/">
           <img src={facebookIcon} alt="Facebook" className="h-8 w-8 hover:scale-110 transition-transform duration-300" />
         </a>
         <a href="mailto:Oklahoney@outlook.com" className="text-white text-2xl hover:scale-110 transition-transform duration-300">
